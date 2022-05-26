@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="ec9050a2-f2a0-4203-9aa1-4076e9b55771" name="Changes" comment="1234567">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Figury1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figury1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figury/Connect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figury/Connect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figury/Figury.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figury/Figury.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figury/Krug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figury/Krug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figury/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figury/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figury/Pryamougolnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figury/Pryamougolnik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figury/Treugolnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figury/Treugolnik.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +57,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Figury1.Main" />
+      <option name="MAIN_CLASS_NAME" value="Figury.Main" />
       <module name="Figury" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Figury1.*" />
+          <option name="PATTERN" value="Figury.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,7 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Figury.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -78,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653503066974</updated>
-      <workItem from="1653503069402" duration="23309000" />
+      <workItem from="1653503069402" duration="31151000" />
     </task>
     <task id="LOCAL-00001" summary="1234567">
       <created>1653553185684</created>
@@ -87,7 +92,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653553185684</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1234567">
+      <created>1653553654065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653553654065</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1234567">
+      <created>1653568513546</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653568513546</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1234567">
+      <created>1653568551762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653568551762</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123456" />
+    <MESSAGE value="12345678" />
     <MESSAGE value="1234567" />
     <option name="LAST_COMMIT_MESSAGE" value="1234567" />
   </component>
