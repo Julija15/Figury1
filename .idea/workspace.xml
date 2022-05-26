@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec9050a2-f2a0-4203-9aa1-4076e9b55771" name="Changes" comment="123456">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figury.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Figury1/Connect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Figury1/Figury.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Figury1/Krug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Figury1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Figury1/Pryamougolnik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Figury1/Treugolnik.java" afterDir="false" />
+    <list default="true" id="ec9050a2-f2a0-4203-9aa1-4076e9b55771" name="Changes" comment="1234567">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figury1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figury1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +78,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653503066974</updated>
-      <workItem from="1653503069402" duration="22634000" />
+      <workItem from="1653503069402" duration="23309000" />
     </task>
+    <task id="LOCAL-00001" summary="1234567">
+      <created>1653553185684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653553185684</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,17 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123456" />
-    <option name="LAST_COMMIT_MESSAGE" value="123456" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Figury1/Krug.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="1234567" />
+    <option name="LAST_COMMIT_MESSAGE" value="1234567" />
   </component>
 </project>

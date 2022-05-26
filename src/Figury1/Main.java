@@ -24,14 +24,14 @@ public class Main {
         treugolnik.p();
 
 
-        figuries [0] = pryamougolnik.p;
-        figuries [1] = pryamougolnik1.p;
-        figuries [2] = krug.p;
-        figuries [3] = krug1.p;
-        figuries[4] = treugolnik.p;
+        figuries [0] = pryamougolnik;
+        figuries [1] = pryamougolnik1;
+        figuries [2] = krug;
+        figuries [3] = krug1;
+        figuries[4] = treugolnik;
 
         for (int i = 0; i < 5; i++) {
-            figuries.p[i].connect();
+            figuries[i].connect();
             f = pryamougolnik.p + pryamougolnik1.p + krug.p + krug1.p + treugolnik.p;
             System.out.println(f);
         }
